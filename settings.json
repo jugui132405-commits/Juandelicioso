@@ -1,7 +1,7 @@
 {
-  "name": "Obotmaisaura",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOTAFK",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1440,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "SOU UM BOT",
+        "SOU UM BOT!",
+        "T-1000 CAÇAR"
       ]
     },
     "chat-log": true,
@@ -49,11 +49,11 @@
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
